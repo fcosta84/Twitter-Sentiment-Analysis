@@ -1,7 +1,3 @@
-"""
-@author: 748309
-"""
-
 import tweepy
 from textblob import TextBlob
 import csv
